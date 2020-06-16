@@ -1,0 +1,30 @@
+2020-06-14T15:24:42+00:00 CRITICAL Uncaught Error: Object of class WP_Error could not be converted to string in C:\xampp\htdocs\store\wp-content\themes\estore\inc\estore.php:169
+Stack trace:
+#0 C:\xampp\htdocs\store\wp-content\themes\estore\inc\estore.php(169): str_replace('<a', '<span typeof="v...', Object(WP_Error))
+#1 C:\xampp\htdocs\store\wp-content\themes\estore\single.php(20): estore_breadcrumbs()
+#2 C:\xampp\htdocs\store\wp-includes\template-loader.php(106): include('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\store\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\store\index.php(17): require('C:\\xampp\\htdocs...')
+#5 {main}
+  thrown in C:\xampp\htdocs\store\wp-content\themes\estore\inc\estore.php on line 169
+
+2020-06-14T15:24:47+00:00 CRITICAL Uncaught Error: Object of class WP_Error could not be converted to string in C:\xampp\htdocs\store\wp-content\themes\estore\inc\estore.php:169
+Stack trace:
+#0 C:\xampp\htdocs\store\wp-content\themes\estore\inc\estore.php(169): str_replace('<a', '<span typeof="v...', Object(WP_Error))
+#1 C:\xampp\htdocs\store\wp-content\themes\estore\single.php(20): estore_breadcrumbs()
+#2 C:\xampp\htdocs\store\wp-includes\template-loader.php(106): include('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\store\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\store\index.php(17): require('C:\\xampp\\htdocs...')
+#5 {main}
+  thrown in C:\xampp\htdocs\store\wp-content\themes\estore\inc\estore.php on line 169
+
+2020-06-14T15:24:56+00:00 CRITICAL Uncaught Error: Object of class WP_Error could not be converted to string in C:\xampp\htdocs\store\wp-content\themes\estore\inc\estore.php:169
+Stack trace:
+#0 C:\xampp\htdocs\store\wp-content\themes\estore\inc\estore.php(169): str_replace('<a', '<span typeof="v...', Object(WP_Error))
+#1 C:\xampp\htdocs\store\wp-content\themes\estore\single.php(20): estore_breadcrumbs()
+#2 C:\xampp\htdocs\store\wp-includes\template-loader.php(106): include('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\store\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\store\index.php(17): require('C:\\xampp\\htdocs...')
+#5 {main}
+  thrown in C:\xampp\htdocs\store\wp-content\themes\estore\inc\estore.php on line 169
+
